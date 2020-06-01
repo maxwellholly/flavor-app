@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flavor-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/flavor-app/static/js/main.f5fdad16.chunk.js",
+    "main.js.map": "/flavor-app/static/js/main.f5fdad16.chunk.js.map",
+    "runtime-main.js": "/flavor-app/static/js/runtime-main.6c8190d4.js",
+    "runtime-main.js.map": "/flavor-app/static/js/runtime-main.6c8190d4.js.map",
+    "static/js/2.9fed5b8f.chunk.js": "/flavor-app/static/js/2.9fed5b8f.chunk.js",
+    "static/js/2.9fed5b8f.chunk.js.map": "/flavor-app/static/js/2.9fed5b8f.chunk.js.map",
+    "index.html": "/flavor-app/index.html",
+    "precache-manifest.e36b729a57886cca94a9e2bb588eb4f6.js": "/flavor-app/precache-manifest.e36b729a57886cca94a9e2bb588eb4f6.js",
+    "service-worker.js": "/flavor-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/flavor-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9fed5b8f.chunk.js.LICENSE.txt": "/flavor-app/static/js/2.9fed5b8f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/flavor-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c8190d4.js",
+    "static/js/2.9fed5b8f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f5fdad16.chunk.js"
+  ]
+}
